@@ -1,0 +1,10 @@
+c:\users\khan\documents\visual studio 2010\Projects\file stream\file stream\bin\Debug\file stream.exe
+c:\users\khan\documents\visual studio 2010\Projects\file stream\file stream\bin\Debug\file stream.pdb
+c:\users\khan\documents\visual studio 2010\Projects\file stream\file stream\obj\x86\Debug\file_stream.Form1.resources
+c:\users\khan\documents\visual studio 2010\Projects\file stream\file stream\obj\x86\Debug\file_stream.Properties.Resources.resources
+c:\users\khan\documents\visual studio 2010\Projects\file stream\file stream\obj\x86\Debug\file stream.csproj.GenerateResource.Cache
+c:\users\khan\documents\visual studio 2010\Projects\file stream\file stream\obj\x86\Debug\file stream.exe
+c:\users\khan\documents\visual studio 2010\Projects\file stream\file stream\obj\x86\Debug\file stream.pdb
+c:\users\khan\documents\visual studio 2010\Projects\file stream\file stream\obj\x86\Debug\file_stream.Form2.resources
+c:\users\khan\documents\visual studio 2010\Projects\file stream\file stream\obj\x86\Debug\file_stream.Form3.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\file stream\file stream\obj\x86\Debug\file stream.csprojResolveAssemblyReference.cache
